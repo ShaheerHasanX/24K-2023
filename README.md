@@ -8,8 +8,8 @@
 
 ## Objective 1: FLOWCHARTS (CONT.)
 ### TASK 1: You are working at Toyota Indus Motors and want to assemble a car. Design a flowchart with proper process modules and decision structures to replicate a pipeline production. 
-![CAT](file:///C:/Users/Lenovo/Downloads/Untitled%20Diagram.drawio.html)
-                             
+![LAB 2 TASK drawio](https://github.com/user-attachments/assets/7f383676-aeb5-4ec7-aac7-5a2623d6bc39)
+                           
 
 ## Objective 2: PSEUDOCODE
 ### TASK 2 Take three variables as input and add them without using the + operator (Use your head for this)
