@@ -1,0 +1,75 @@
+Name: Syed Shaheer Hasan                      Roll No: 24K-2023                                             PF LAB 2
+
+Objective 1: FLOWCHARTS (CONT.)
+
+TASK 1: You are working at Toyota Indus Motors and want to assemble a car. Design a flowchart with proper process modules and decision structures to replicate a pipeline production. 
+
+ScreenShot uploaded
+
+
+Objective 2: PSEUDOCODE
+
+TASK 2 Take three variables as input and add them without using the + operator (Use your head for this)
+
+1) START
+2) //INPUT/OUTPUT
+3) INPUT Number 1
+4) INPU	T Number 2
+5) INPUT Number 3
+6) // Variable and Initialization 
+7) SET Total to 0
+8) SET NewNum1 to 0
+9) // PROCESS STEPS
+10) SET NewNum1 to -1 * Number 1
+11) SET Total to NewNum1 – Number 2
+12) SET Total to Total – Number 3
+13) SET Total to Total * -1
+14) END
+
+TASK 3: Create a small calculator which only does ‘+’ or ‘-‘Operations. (Hint: Take three variable inputs with one being used for the operator)
+
+1) START
+2) //INPUT/OUTPUT
+3) INPUT Number 1
+4) INPU	T Number 2
+5) INPUT Operator
+6) // Variable and Initialization 
+7) SET Total to 0
+8) // PROCESS STEPS
+9) SET Total to Number 1 + Operator + Number 2
+10) END
+
+
+Objective 3: Algorithm
+
+Task 1: Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6). If so, determine if it’s an even number or odd number as well.
+
+1) Ask the user to enter Divisor
+2) Ask user for a Number
+3) SET Quotient to Number/Divisor
+4) If the Quotient is not equal to 0 or is less than 0, SET Quotient to (Quotient / Divisor).
+5) Repeat step 4 until Quotient is equal to or less than 0, else move to Step 6.
+6) If Quotient is not equal to 0, Print Divisor “is not the divisor.”.
+7) Else , Print Divisor “is actually a divisor of “ Number.
+8) If the right most digit of the Divisor is 2 or 4 or 6 or 8 or 0, Print Divisor “is Even”.]
+9) Else, Print Divisor “is Odd”.
+
+TASK 3: Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
+
+1) Ask the user to Enter Number 1
+2) Ask the user to Enter Number 2
+3) Ask the user to Enter Operator
+4) If the Operator equals to “+”, SET Answer to (Number 1 + Number 2)
+5)Else If the Operator equals to “-”, SET Answer to (Number 1 - Number 2)
+6) Else If the Operator equals to “*”, SET Answer to (Number 1 * Number 2)
+7) Else If the Operator equals to “/”, SET Answer to (Number 1 / Number 2)
+8) Else if the Operator equals to “%”, SET Answer to (Number 1 % Number 2)
+
+
+Objective 4: GitHub
+
+TASK 1: Create your repository with your roll number being your repo name
+TASK 2: Upload the algorithms and pseudo codes in your repository
+TASK 3: Create a small intro about yourself in the readme file with pictures and bullet points
+
+
