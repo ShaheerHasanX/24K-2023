@@ -8,8 +8,7 @@
 
 ## Objective 1: FLOWCHARTS (CONT.)
 ### TASK 1: You are working at Toyota Indus Motors and want to assemble a car. Design a flowchart with proper process modules and decision structures to replicate a pipeline production. 
-
-
+![CAT](file:///C:/Users/Lenovo/Downloads/Untitled%20Diagram.drawio.html)
                              
 
 ## Objective 2: PSEUDOCODE
