@@ -8,7 +8,9 @@
 
 ## Objective 1: FLOWCHARTS (CONT.)
 ### TASK 1: You are working at Toyota Indus Motors and want to assemble a car. Design a flowchart with proper process modules and decision structures to replicate a pipeline production. 
-                                                                                        
+
+
+                             
 
 ## Objective 2: PSEUDOCODE
 ### TASK 2 Take three variables as input and add them without using the + operator (Use your head for this)
